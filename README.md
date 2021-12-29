@@ -24,10 +24,14 @@
 </br>
 </br>
 
-<h1 align="center">🤗 Polecam ich obczaić 🤗</h1>
+<h1 align="center">🤗 Polecam Ich : 🤗</h1>
 
-<h4 align="center"> Już niedługo
+<p align="center">
+      <a href="https://github.com/mafineeek">
+         <img alt="Mafineeek" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/mafineek.png" width="80" height="80">
+</p>
 
+ 
 <h1 align="center">🗣️ Języki / Programy z których korzystam 💻</h1>
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
