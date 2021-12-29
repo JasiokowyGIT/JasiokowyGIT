@@ -4,10 +4,10 @@
 
 </br>
 
-<h1 align="center">ℹ️ Informacje o mnie 💬</h1>
+<h1 align="center">💬 Informacje o mnie 💬</h1>
 <h3>👋 Jestem Jasiek mam 16 lat 👋 Aktualnie jestem początkującym co do programowania, ale wierze że uda mi się osiągnąć sukcses 🤗</h3>
 
-<img hight="292" width="480" alt="GIF" align="right" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/hyouka-sway.gif">
+<img hight="272" width="460" alt="GIF" align="right" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/hyouka-sway.gif">
 
 ### Moje Hobby
 
@@ -22,15 +22,14 @@
 - 🎉 #3 Mushoku Tensei: Jobless Reincarnation 🎉
 
 </br>
-</br>
 
-<h1 align="center">🤗 Polecam Ich : 🤗</h1>
+<h1 align="center">🤗 Polecam Ich 🤗</h1>
 
 <p align="center">
       <a href="https://github.com/mafineeek">
-         <img alt="Mafineeek" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/mafineek.png" width="80" height="80">
+         <img alt="Mafineeek" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/mafineek.png" width="80" height="80">    
        <a href="https://github.com/kr1mk">
-         <img alt="kr1mk" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/56652866-modified.png" width="80" height="80">
+         <img alt="kr1mk" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/56652866-modified.png" width="80" height="80">          
         <a href="https://github.com/GRainbowP">
          <img alt="GRainbowP" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/rainbowp-modified.png" width="80" height="80">
 </p>
