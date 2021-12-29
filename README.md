@@ -8,7 +8,7 @@
 ### >>> Jestem Jasiek mam 16 lat i praktykuje Stolarstwo
 ### >>> Aktualnie zaczynam oficialnie zaczełem się uczyć programowania
 
-<img hight="320" width="294" alt="GIF" align="left" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/oreki.gif">
+<img hight="320" width="294" alt="GIF" align="right" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/oreki.gif">
 
 ### Moje Hobby
 
