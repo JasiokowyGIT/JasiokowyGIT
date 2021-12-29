@@ -29,6 +29,10 @@
 <p align="center">
       <a href="https://github.com/mafineeek">
          <img alt="Mafineeek" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/mafineek.png" width="80" height="80">
+       <a href="https://github.com/kr1mk">
+         <img alt="kr1mk" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/56652866-modified.png" width="80" height="80">
+        <a href="https://github.com/GRainbowP">
+         <img alt="GRainbowP" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/rainbowp-modified.png" width="80" height="80">
 </p>
 
  
