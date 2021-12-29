@@ -7,4 +7,4 @@
 </br>
 </br>
 
-# ℹ️ Informacje o mnie 💬
+# <center> ℹ️ Informacje o mnie 💬 </center>
