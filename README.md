@@ -5,7 +5,7 @@
 </br>
 
 <h1 align="center">ℹ️ Informacje o mnie 💬</h1>
-<h3>👋 Jestem Jasiek mam 16 lat 👋 Aktualnie jestem początkującym co do programowania, ale wierze że uda mi się osiągnąć sukcsess 🤗</h3>
+<h3>👋 Jestem Jasiek mam 16 lat 👋 Aktualnie jestem początkującym co do programowania, ale wierze że uda mi się osiągnąć sukcses 🤗</h3>
 
 <img hight="292" width="480" alt="GIF" align="right" src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/hyouka-sway.gif">
 
