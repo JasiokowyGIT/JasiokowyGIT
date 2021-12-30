@@ -36,7 +36,7 @@
 
  
 <h1 align="center">🗣️ Języki / Programy z których korzystam 💻</h1>
-
+  </br>
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/jetbrains_intellij.png" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
@@ -50,12 +50,14 @@
 </br>
 
 <h1 align="center">🎓 Języki / Programy które się aktualnie ucze 🍎</h1>
+</br>
 <p align="center">
-<img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/python.png" alt="python" width="120" hight="50">
- </p>
+   <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/python.png" alt="python" width="120" hight="50">
+</p>
 </br>
 
 <h1 align="center">🗓️ Języki / Programy które planuje się nauczyć 📅</h1>
+</br>
 <p align="center">
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/nodejs.png" alt="nodejs" style="vertical-align:top; margin:6px 4px">
@@ -63,4 +65,13 @@
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/JasiokowyGIT/JasiokowyGIT/blob/main/assets/rust.png" alt="rust" style="vertical-align:top; margin:6px 4px">
+</p>
+</br>
+
+<h1 align="center">♾️ Statystyki mojego profiu ♾️</h1>
+<p align="center">
+</br>
+<img src="https://komarev.com/ghpvc/?username=JasiokowyGIT&color=E60B0B&style=flat-square&label=Profile visits" alt="JasiokowyGit" />
+</br>
+ <img src="https://github-readme-stats.vercel.app/api?username=JasiokowyGit&show_icons=true&theme=dark&icon_color=E60B0B&hide_border=true&locale=pl&bg_color=0d1117" alt="JasiokowyGit" />
 </p>
